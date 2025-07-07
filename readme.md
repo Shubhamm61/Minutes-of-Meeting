@@ -57,7 +57,6 @@ set GEMINI_API_KEY=your-api-key-here  # Windows
 - **Python-docx**: Creating downloadable meeting minutes.
 
 
-## Author
-Developed by Parth Deshmukh
+
 
 
